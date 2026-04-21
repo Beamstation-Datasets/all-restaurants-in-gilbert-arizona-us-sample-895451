@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1798d6e0-b3ae-4b29-9d1a-012e3ed3f35e",
+  "export_job_id": "20dac88a-80d8-4610-b47b-522f32fcc227",
   "id_short": 895451,
-  "published_at": "2026-04-18T07:11:40Z",
+  "published_at": "2026-04-21T19:56:45Z",
   "repo_name": "all-restaurants-in-gilbert-arizona-us-sample-895451",
   "sample_asset_name": "beamstation_895451_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/895451/beamstation_895451_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "aaa65b9e3aa780c613b2322792b2a186ca5e62930b596af848f82e8401272fcc",
-  "sample_size_bytes": 43793,
-  "total_records": 107
+  "sample_records": 8,
+  "sample_sha256": "fe9854bdcfd5c470f20af7e19632e6a32f191acffece61225e985259939ac32f",
+  "sample_size_bytes": 37347,
+  "total_records": 89
 }
