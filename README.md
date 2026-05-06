@@ -1,6 +1,6 @@
 # All Restaurants in Gilbert, Arizona, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `895451` |
 | Location | Gilbert |
 | Category | Restaurants |
-| Full dataset size | 102 records |
-| Free sample size | 10 records (9.8%) |
-| Last export | 2026-04-28T12:29:52.892793+00:00 |
+| Full dataset size | 114 records |
+| Free sample size | 11 records (9.65%) |
+| Last export | 2026-05-05T20:10:12.231415+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gilbert-arizona-us-sample-895451/releases/download/sample-latest/beamstation_895451_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
